@@ -1,21 +1,8 @@
 ## 📑 Table des matières
 
 - 🇫🇷 [Version française – Prédiction du succès des lancements SpaceX](#version-française--prédiction-du-succès-des-lancements-spacex)
-  - [Ce que j’ai réalisé](#ce-que-jai-realise)
-  - [Compétences démontrées](#competences-demontrees)
-  - [Stack technique](#stack-technique)
-  - [Résultats](#resultats)
-  - [Contexte du projet](#contexte-du-projet)
-  - [Autrice](#autrice)
 
 - 🇬🇧 [English version – SpaceX Launch Success Prediction](#english-version--spacex-launch-success-prediction)
-  - [What I Did](#what-i-did)
-  - [Key Skills Demonstrated](#key-skills-demonstrated)
-  - [Tech Stack](#tech-stack)
-  - [Outcome](#outcome)
-  - [Project Context](#project-context)
-  - [Author](#author)
-
 
 # Version française – Prédiction du succès des lancements SpaceX
 **IBM Data Science Professional Certificate – Projet Capstone**
