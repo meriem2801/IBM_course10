@@ -54,4 +54,4 @@ Capstone project completed as part of the
 **Meriem**  
 Python & Machine Learning Enthusiast
 **Meriem**  
-Aspiring Data Scientist | Python & Machine Learning Enthusiast
+Python & Machine Learning Enthusiast
