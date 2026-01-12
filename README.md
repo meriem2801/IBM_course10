@@ -1,4 +1,81 @@
-# SpaceX Launch Success Prediction  
+## 📑 Table des matières
+
+- 🇫🇷 [Version française – Prédiction du succès des lancements SpaceX](#prédiction-du-succès-des-lancements-spacex)
+  - [Ce que j’ai réalisé](#ce-que-jai-réalisé)
+  - [Compétences démontrées](#compétences-démontrées)
+  - [Stack technique](#stack-technique)
+  - [Résultats](#résultats)
+  - [Contexte du projet](#contexte-du-projet)
+  - [Autrice](#autrice)
+
+- 🇬🇧 [English version – SpaceX Launch Success Prediction](#spacex-launch-success-prediction)
+  - [What I Did](#what-i-did)
+  - [Key Skills Demonstrated](#key-skills-demonstrated)
+  - [Tech Stack](#tech-stack)
+  - [Outcome](#outcome)
+  - [Project Context](#project-context)
+  - [Author](#author)
+
+
+# Version française – Prédiction du succès des lancements SpaceX
+**IBM Data Science Professional Certificate – Projet Capstone**
+
+Ce projet est une **étude de cas complète en data science** portant sur l’analyse des lancements **SpaceX Falcon 9** et la prédiction du **succès de l’atterrissage du premier étage**, à partir de données réelles.
+
+Il met en valeur ma capacité à mener un projet de bout en bout, depuis la **collecte des données** jusqu’au **machine learning**, en passant par l’analyse, la visualisation et le déploiement.
+
+---
+
+## Ce que j’ai réalisé
+
+- Collecte des données de lancement via **l’API SpaceX** et le **web scraping**
+- Nettoyage et préparation des jeux de données
+- Analyse exploratoire des données (**EDA**) avec **Python et SQL**
+- Création de **dashboards interactifs** avec Dash & Plotly
+- Entraînement et évaluation de **modèles de classification**
+- Interprétation des résultats pour appuyer la prise de décision
+
+---
+
+## Compétences démontrées
+
+- Collecte de données (API, Web Scraping)
+- Data wrangling & analyse exploratoire
+- SQL & visualisation de données
+- Machine Learning (classification)
+- Développement de dashboards
+- Python & Jupyter Notebooks
+
+---
+
+## Stack technique
+
+**Python | Pandas | NumPy | SQL | Scikit-learn | Plotly | Dash | Matplotlib | Seaborn**
+
+---
+
+## Résultats
+
+- Identification des facteurs clés influençant le succès des lancements
+- Visualisation des performances par site de lancement et charge utile
+- Construction d’un modèle prédictif du succès d’atterrissage
+
+---
+
+## Contexte du projet
+
+Projet Capstone réalisé dans le cadre du  
+**IBM Data Science Professional Certificate (Coursera)**
+
+---
+
+## Autrice
+
+**Meriem**  
+Passionnée de Python & Machine Learning
+
+
+# English version – SpaceX Launch Success Prediction
 **IBM Data Science Professional Certificate – Capstone Project**
 
 This project is an end-to-end **data science case study** analyzing **SpaceX Falcon 9 launches** and predicting **first-stage landing success** using real-world data.
@@ -51,7 +128,5 @@ Capstone project completed as part of the
 ---
 
 ## Author
-**Meriem**  
-Python & Machine Learning Enthusiast
 **Meriem**  
 Python & Machine Learning Enthusiast
